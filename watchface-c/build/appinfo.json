@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "watchface-c", 
+    "name": "watchface-c", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "Reese", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "watchface-c", 
+    "shortName": "watchface-c", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "c82e795f-e16a-4a64-b823-0c1ec68a6819"
+}
